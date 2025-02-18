@@ -1,0 +1,1 @@
+This repository demonstrates an issue with ActionScript 3's `trace()` function, where its output can be unreliable within loops or complex execution flows. The `bug.as` file shows the problematic code, while `bugSolution.as` offers a workaround using a more robust logging method.
